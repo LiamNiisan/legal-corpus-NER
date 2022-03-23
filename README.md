@@ -11,4 +11,4 @@ This is a group repository for COLX 523 Project - Building an annotated corpus f
 
 ### A screenshot of our deliverable interface
 
-![interface.png](https://github.ubc.ca/us45/COLX_523_group3/blob/Sneha/interface.png)
+![interface.png](./interface.png)
